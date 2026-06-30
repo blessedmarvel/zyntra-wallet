@@ -1,84 +1,59 @@
-🚀 Zyntra Wallet
+# ⭐ Zyntra Wallet
 
-A modern Stellar wallet built with React, Vite, Freighter Wallet, and the Stellar SDK.
+A simple Stellar wallet built with React, Vite and the Stellar SDK.
 
-Zyntra allows users to securely connect their Freighter wallet, view their XLM balance, and send XLM on the Stellar Testnet.
+Zyntra was built as part of my journey into Web3 development and the Stellar ecosystem. My goal is to grow it from a learning project into a polished wallet experience and many more.
 
-Zyntra was built as part of my journey into Web3 development and the Stellar ecosystem. My goal is to grow it from a learning project into a polished wallet experience.
----
+## 🚀 Live Demo
 
-✨ Features
+https://zyntra-wallet.vercel.app/
 
-- 🔐 Connect Freighter Wallet
-- 👛 Disconnect Wallet
-- 💰 View XLM Balance
-- 💸 Send XLM Transactions
-- ⚡ Fast React + Vite Frontend
-- 🌐 Stellar Testnet Support
+## ✨ Features
 
----
+- Connect Freighter Wallet
+- View XLM Balance
+- Send XLM on Stellar Testnet
+- Disconnect Wallet
+- Stellar Testnet Support
 
-🛠 Tech Stack
+## 🛠 Built With
 
 - React
 - Vite
-- JavaScript
 - Stellar SDK
 - Freighter API
 
----
+### Home
 
-📷 Screenshots
 
-Screenshots coming soon.
+### Wallet Connected
 
----
 
-🚀 Getting Started
+### Send Transaction
 
-Clone the repository
+
+## ⚙ Installation
 
 git clone https://github.com/blessedmarvel/zyntra-wallet.git
 
-Install dependencies
+Install packages
 
 npm install
 
-Run the development server
+Start development server
 
 npm run dev
 
----
+Open
 
-📌 Project Status
+http://localhost:5173
 
-🚧 Currently under active development.
+## 📦 Build
 
-Upcoming features include:
+npm run build
 
-- Transaction History
-- Mobile Responsive UI
-- Dark Mode
-- QR Code Payments
-- Copy Wallet Address
-- Multi-Asset Support
-
----
-
-🌍 Vision
-
-Zyntra aims to become a simple, beautiful, and secure gateway into the Stellar ecosystem.
-
----
-
-👨‍💻 Author
+## 👨‍💻 Author
 
 Blessed Marvel
 
-GitHub: https://github.com/blessedmarvel
-
----
-
-⭐ Support
-
-If you like this project, consider giving it a ⭐ on GitHub.
+Built as part of the Stellar Developer Journey.
