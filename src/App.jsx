@@ -135,7 +135,8 @@ function App() {
 
   return (
     <div style={{ padding: "30px", fontFamily: "Arial" }}>
-      <h1>⭐ Stellar White Belt</h1>
+      <h1>🚀 Zyntra</h1>
+<p>Your gateway to the Stellar ecosystem.</p>
 
       <div style={{ marginBottom: "20px" }}>
   <button onClick={connectWallet}>Connect Wallet</button>
